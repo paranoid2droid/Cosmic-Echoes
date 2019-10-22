@@ -1,6 +1,6 @@
 # Cosmic-Echoes
 
-See and here the echoes from the universe.
+See and hear the echoes from the universe.
 
 **See video demo [here](https://www.kadenze.com/users/zhe-zhang/portfolio_projects/ii-c8d45663-014f-412c-9de1-e0ea8bed9224).**
 

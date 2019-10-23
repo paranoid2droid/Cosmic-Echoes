@@ -16,9 +16,9 @@ The patch gets the fundamental frequency whenever the input device detects a cha
 
 For the video part, the choice is also on you whether you used your camera or you load a video clip to the patch. The patch would calculate the horizontal and vertical centroid of your video input. The horizontal centroid determines the pan of the sound as mentioned above. And the vertical centroid determines the vertical location of the sine wave to be drew down. Then, the input video and the sine waves are combined together through a absolute value difference operation.
 
-![video mode][pre1.png]
+![video mode](pre1.png)
 
-![camera mode][pre2.png]
+![camera mode](pre2.png)
 
 Besides the input source of audio and video, there are also some parameters left to the player to change, affecting the visual effects of the final output. With these interacting with each other, we finally get some cosmos feeling on the video part and an echo like sound character on the audio part. And that is why I named this patch "Cosmic Echoes".
 
